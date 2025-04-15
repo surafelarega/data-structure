@@ -1,3 +1,1 @@
-
-list
-format
+print("Python")
