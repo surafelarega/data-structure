@@ -14,7 +14,7 @@ for i in range(n):
   arr[i], arr[min_idx] = arr[min_idx], arr[i] 
 print(f"Selection Sort: {arr}")
 
-# Insertion sort
+# Insertion sort hey 
 arr = [40,12,34,56,90,25,73]
 n = len(arr)
 for i in range(1, n):
